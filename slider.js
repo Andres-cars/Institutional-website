@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const imagenes = [
     { src: "Boceto/Imagenes/graduados.PNG", titulo: "Bachillerato General Unificado" },
-    { src: "Boceto/Imagenes/BGU.PNG", titulo: "Educación General Básica" },
-    { src: "Boceto/Imagenes/inicialco.PNG", titulo: "Educación Inicial" }
+    { src: "Boceto/Imagenes/BGU.png", titulo: "Educación General Básica" },
+    { src: "Boceto/Imagenes/inicialcopia.png", titulo: "Educación Inicial" }
   ];
 
   let index = 0;
